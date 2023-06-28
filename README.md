@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/Python-282C34?logo=pythont&logoColor=#3776AB" alt="Python logo" title="Python" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/NestJs-282C34?logo=nestjs&logoColor=E0234E" alt="NestJs logo" title="NestJs" height="25" /></span>
 &nbsp;
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/TypeOrm-282C34?logo=typeorm&logoColor=262627" alt="TypeOrm logo" title="TypeOrm" height="25" /></span>
+<span><img src="https://img.shields.io/badge/TypeOrm-282C34?logo=typeform&logoColor=262627" alt="TypeOrm logo" title="TypeOrm" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
