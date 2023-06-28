@@ -19,32 +19,6 @@ Here are some ideas to get you started:
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/Python-282C34?logo=javascript&logoColor=F7DF1E" alt="Python logo" title="Python" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;### Hi there 👋
-
-<!--
-**nmthuann/nmthuann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- nmthuann -->
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
-<!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=pythont&logoColor=#3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/NestJs-282C34?logo=nestjs&logoColor=E0234E" alt="NestJs logo" title="NestJs" height="25" /></span>
