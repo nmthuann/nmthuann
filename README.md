@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=oracle&logoColor=FFFFFF" alt="Java logo" title="Java" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Spring%20Boot-282C34?logo=springboot&logoColor=6DB33F" alt="Spring Boot logo" title="Spring Boot" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/NestJs-282C34?logo=nestjs&logoColor=E0234E" alt="NestJs logo" title="NestJs" height="25" /></span>
@@ -37,7 +41,9 @@ Here are some ideas to get you started:
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
+<span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/SQL%20Server-282C34?logo=microsoft-sql-server&logoColor=CC2927" alt="SQL Server logo" title="SQL Server" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
