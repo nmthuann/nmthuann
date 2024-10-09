@@ -1,20 +1,18 @@
 ### Hi there 👋
 
-<!--
-**nmthuann/nmthuann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Grocery Finder](https://github.com/nmthuann/GroceryFinder)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Spring Boot**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on [Mobile E-commerce Back-end](https://github.com/nmthuann/e-commerce-backend-nestjs)
 
+- 🤝 I’m looking for help with [Quản lý điểm sinh viên hệ tín chỉ](https://github.com/nmthuann/PTIT-Quan-Ly-Sinh-Vien-He-Tin-Chi-CSDLPT)
+
+- 📝 I regularly write articles on [https://transparent-gas-399.notion.site/JAVA-SPRING-BOOT-BEST-PRACTICE-032140a14c2744d3b6a05c268d65f0ea](https://transparent-gas-399.notion.site/JAVA-SPRING-BOOT-BEST-PRACTICE-032140a14c2744d3b6a05c268d65f0ea)
+
+- 💬 Ask me about **Spring Boot, NestJS, Next.js**
+
+- 📫 How to reach me **thuanminh.2001286@gmail.com**
 <!-- nmthuann -->
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
