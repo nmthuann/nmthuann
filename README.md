@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Thuan Nguyen</h1>
+<h3 align="center">IT Student at PTIT | 2024 Graduation | Seeking a position as a Backend Developer or Java Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nmthuann&label=Profile%20views&color=0e75b6&style=flat" alt="nmthuann" /> </p>
 
 - 🔭 I’m currently working on [Grocery Finder](https://github.com/nmthuann/GroceryFinder)
 
@@ -13,6 +16,7 @@
 - 💬 Ask me about **Spring Boot, NestJS, Next.js**
 
 - 📫 How to reach me **thuanminh.2001286@gmail.com**
+
 <!-- nmthuann -->
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
