@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Thuan Nguyen👋</h1>
 <h3 align="center">IT Student at PTIT | 2024 Graduation | Seeking a position as a Backend Developer or Java Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nmthuann&label=Profile%20views&color=0e75b6&style=flat" alt="nmthuann" /> </p>
+
 
 - 🔭 I’m currently working on [Grocery Finder](https://github.com/nmthuann/GroceryFinder)
 
@@ -102,5 +102,5 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nmthuann&" alt="nmthuann" /></p>
 
 </div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nmthuann&label=Profile%20views&color=0e75b6&style=flat" alt="nmthuann" /> </p>
 
